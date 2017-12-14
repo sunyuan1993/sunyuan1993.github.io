@@ -1,11 +1,13 @@
 ---
-layout: post
-title: JNI开发笔记系列（一）
-subtitle: 初识JNI
-date: 2017-12-14
-author: Yuan
+layout:     post
+title:      快速搭建个人博客
+subtitle:   手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)
+date:       2017-02-06
+author:     BY
+header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
-tags:-JNI -Java Native InterFace 
+tags:
+    - Blog
 ---
 # 前言
 自从做了开发工作之后，在各位大神的影响下，一直也想着能写一些东西，分享一下自己踩过的坑和学到的东西。不过自己执行力太差，博客搭建了很久，微信公众号也申请了有一段时间，一直没有发布过文章。刚好一直在使用JNI进行开发，目前手头的项目也告一段落，就想系统的写一个关于JNI的系列教程。说的有点多了，书归正传。
