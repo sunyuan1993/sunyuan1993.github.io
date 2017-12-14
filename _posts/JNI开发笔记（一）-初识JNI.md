@@ -1,10 +1,9 @@
 ---
 layout:     post
-title:      快速搭建个人博客
-subtitle:   手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)
-date:       2017-02-06
-author:     BY
-header-img: img/post-bg-re-vs-ng2.jpg
+title:      JNI开发笔记（一）
+subtitle:   初识JNI
+date:       2017-12-14
+author:     YUAN
 catalog: true
 tags:
     - Blog
