@@ -1,0 +1,20 @@
+﻿---
+layout: post
+title: JNI开发笔记系列（一）
+subtitle: 初识JNI
+date: 2017-12-14
+author: Yuan
+catalog: true
+tags:JNI Java Native InterFace 
+---
+# 前言
+自从做了开发工作之后，在各位大神的影响下，一直也想着能写一些东西，分享一下自己踩过的坑和学到的东西。不过自己执行力太差，博客搭建了很久，微信公众号也申请了有一段时间，一直没有发布过文章。刚好一直在使用JNI进行开发，目前手头的项目也告一段落，就想系统的写一个关于JNI的系列教程。说的有点多了，书归正传。
+# 什么是JNI?
+JavaJNI的全称是Java Native InterFace(Java 本地接口)，它是为了方便Java调用C,C++等本地代码所封装的一层接口。
+#JNI的由来
+Java的跨平台优势非常明显，不过跟本地交互却是它的短板，这就导致一些和操作系统相关的特性Java无法完成，于是Java提供了JNI专门用于和本地代码交互，这样就增强了Java语言的本地交互能力。通过Java JNI，用户可以调用C,C++所编写的本地代码。
+
+
+
+
+
